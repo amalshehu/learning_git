@@ -1,1 +1,7 @@
 This is a text file
+
+Hello I'm new git 
+
+vipin
+amal 
+jinnu
